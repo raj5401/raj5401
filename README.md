@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rajashekhar Reddy 👋
 
-<!--
-**raj5401/raj5401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring DevOps Engineer | Linux Enthusiast | AWS Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm currently learning DevOps, Linux, and AWS, and I'm excited to explore and improve my skills in these areas. I'm passionate about automation, cloud computing, and building scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I'm Learning:
+- **DevOps Tools**: Git, Jenkins, Docker, Kubernetes
+- **Cloud**: AWS (EC2, S3, Lambda)
+- **Operating Systems**: Linux (Ubuntu, CentOS)
+- **Scripting**: Bash, Python
+
+## 🌱 Currently Learning:
+- Linux system administration
+- AWS services and cloud architecture
+- DevOps best practices and automation
+
+## 📫 How to reach me:
+- Email: [your-email@example.com]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+Thanks for visiting my profile!
