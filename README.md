@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm currently learning DevOps, Linux, and AWS, and I'm exc
 - DevOps best practices and automation
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [rreddy6875@gmail.com]
+- LinkedIn: [Your LinkedIn Profile](rajshekhar-reddy-6875r)
 
 Thanks for visiting my profile!
