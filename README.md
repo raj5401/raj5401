@@ -1,24 +1,38 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar Reddy</h1>
 
 <p align="left">
-  I'm an aspiring DevOps Engineer, Linux enthusiast, and AWS learner. I'm passionate about automation, cloud infrastructure, and building scalable systems.
+DevOps & Cloud Engineer focused on Linux production systems, AWS infrastructure, and automation.
+I build scalable, reliable environments using Infrastructure as Code and container orchestration.
 </p>
 
-<h3 align="left">Technologies I'm Exploring:</h3>
+<h3 align="left">🚀 Tech Stack</h3>
+
 <ul>
-  <li>DevOps Tools: Git, ansible, terraform, Jenkins, Docker, K8s, 🛠️</li>
-  <li>Cloud: AWS (EC2, S3, VPC, R53, Lambda) ☁️</li>
-  <li>Operating Systems: Linux (RHEL, Ubuntu) 🖥️</li>
-  <li>Scripting: Bash, Python 🐍</li>
+  <li><strong>Cloud:</strong> AWS (EC2, S3, VPC, Route53, IAM, Lambda)</li>
+  <li><strong>Infrastructure as Code:</strong> Terraform, Ansible</li>
+  <li><strong>Containers & Orchestration:</strong> Docker, Kubernetes</li>
+  <li><strong>CI/CD:</strong> Jenkins, GitHub Actions</li>
+  <li><strong>Monitoring:</strong> Prometheus, Grafana, Datadog</li>
+  <li><strong>Operating Systems:</strong> Linux (RHEL, Ubuntu)</li>
+  <li><strong>Scripting:</strong> Bash, Python</li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj5401&label=Profile%20views&color=0e75b6&style=flat" alt="raj5401" /> </p>
+---
 
-  
+### 📊 What I Focus On
+- Infrastructure Automation
+- High-Availability Architecture
+- Cloud-Native Deployments
+- Monitoring & Observability
+- Performance Optimization
 
+---
 
-### 📫 How to reach me?
+### 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/rajshekhar-reddy-6875r/
+- ✍️ Blog: https://medium.com/@rreddy6875
+- 📩 Email: rreddy6875@gmail.com
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/rajshekhar-reddy-6875r/) 👨🏻‍💻
- - Visit my [Blog](https://medium.com/@rreddy6875) 🌐
- - Shoot Me an [Email](mailto:rreddy6875@gmail.com) 💌
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raj5401&label=Profile%20views&color=0e75b6&style=flat" alt="raj5401" />
+</p>
