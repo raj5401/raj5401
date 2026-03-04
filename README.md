@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar Reddy</h1>
 
 <p align="center">
-  🚀 DevOps & Cloud Engineer | Linux | AWS | Automation  
+  🖥️ System Engineer | Linux Production | AWS | Automation
 </p>
 
 <p align="left">
