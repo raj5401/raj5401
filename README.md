@@ -6,9 +6,9 @@
 
 <h3 align="left">Technologies I'm Exploring:</h3>
 <ul>
-  <li>DevOps Tools: Git, Maven, Jenkins, Docker, Kubernetes, 🛠️</li>
-  <li>Cloud: AWS (EC2, S3, Lambda) ☁️</li>
-  <li>Operating Systems: Linux (Ubuntu, CentOS) 🖥️</li>
+  <li>DevOps Tools: Git, ansible, terraform, Jenkins, Docker, K8s, 🛠️</li>
+  <li>Cloud: AWS (EC2, S3, VPC, R53, Lambda) ☁️</li>
+  <li>Operating Systems: Linux (RHEL, Ubuntu) 🖥️</li>
   <li>Scripting: Bash, Python 🐍</li>
 </ul>
 
